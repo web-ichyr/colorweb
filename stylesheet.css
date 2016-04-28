@@ -15,7 +15,7 @@ h1, h2{
 }
 
 #wrap {
-	width:900px;
+	width:750px;
 	height:2800px;
 	background-color:#e6ffe6;
 	text-align:center;
@@ -28,7 +28,7 @@ h1, h2{
 
 .segment{
 	background-color: #ccffcc;
-	width:800;
+	width:600px;
 	height:4px;
 	margin:auto;
 	margin-top: 25px;
@@ -91,7 +91,7 @@ h1, h2{
 
 #yellow{
 	background-color: yellow;
-	margin-left: 200px; 
+	margin-left: 120px; 
 	height:60px;
 	width:60px;
 	border-top-left-radius: 20px;
@@ -115,7 +115,7 @@ h1, h2{
 
 #orange{
 	background-color: orange;
-	margin-left:200px;
+	margin-left:120px;
 	height:60px;
 	width:60px;
 	border-top-left-radius: 20px;
